@@ -1,0 +1,5 @@
+<map id="IEndpointBehavior" name="IEndpointBehavior">
+<area shape="rect" id="node2" href="$classkl_service_core_1_1_console_output_behavior.html" title="{klServiceCore.ConsoleOutput\lBehavior\n||+ AddBindingParameters()\l+ ApplyClientBehavior()\l+ ApplyDispatchBehavior()\l+ Validate()\l}" alt="" coords="5,131,196,267"/>
+<area shape="rect" id="node3" href="$classkl_service_core_1_1_protection_endpoint_behavior.html" title="{klServiceCore.Protection\lEndpointBehavior\n|&#45; ProtectionSetting\l|+ AddBindingParameters()\l+ ApplyClientBehavior()\l+ ApplyDispatchBehavior()\l+ Validate()\l}" alt="" coords="220,131,395,267"/>
+<area shape="rect" id="node4" href="$classkl_service_core_1_1_streaming_security_behavior.html" title="{klServiceCore.StreamingSecurity\lBehavior\n||+ AddBindingParameters()\l+ ApplyClientBehavior()\l+ ApplyDispatchBehavior()\l+ Validate()\l}" alt="" coords="419,131,631,267"/>
+</map>

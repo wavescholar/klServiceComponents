@@ -1,0 +1,7 @@
+<map id="klServiceCore.klAlgorithmDataSink" name="klServiceCore.klAlgorithmDataSink">
+<area shape="rect" id="node2" href="$classkl_service_core_1_1kl_transform.html" title="{klTransform\n||+ getData()\l+ persist()\l+ getName()\l+ setName()\l}" alt="" coords="307,145,401,267"/>
+<area shape="rect" id="node3" href="$class_marshal_by_ref_object.html" title="{MarshalByRefObject\n||}" alt="" coords="49,5,190,83"/>
+<area shape="rect" id="node8" href="$classkl_service_core_1_1kl_transform.html" title="{klServiceCore.klTransform\n||+ getData()\l+ persist()\l+ getName()\l+ setName()\l}" alt="" coords="5,145,177,267"/>
+<area shape="rect" id="node7" href="$classkl_service_core_1_1_o_c_p.html" title="{klServiceCore.OCP\n||+ setCache()\l+ setTransform()\l+ getData()\l+ OCP()\l}" alt="" coords="87,329,221,451"/>
+<area shape="rect" id="node6" href="$classkl_service_core_1_1_i_c_p.html" title="{klServiceCore.ICP\n||+ getData()\l+ connect()\l}" alt="" coords="93,513,220,605"/>
+</map>

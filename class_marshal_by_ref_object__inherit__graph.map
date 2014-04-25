@@ -1,0 +1,21 @@
+<map id="MarshalByRefObject" name="MarshalByRefObject">
+<area shape="rect" id="node2" href="$classkl_service_core_1_1kl_analysis.html" title="{klServiceCore.klAnalysis\n|+ m_messageHostResources\l+ m_AlgoGraph\l|+ run()\l}" alt="" coords="208,145,403,237"/>
+<area shape="rect" id="node5" href="$classkl_service_core_1_1kl_model.html" title="{klServiceCore.klModel\n|+ m_analysis\l+ m_dataDesc\l|+ run()\l}" alt="" coords="483,145,634,237"/>
+<area shape="rect" id="node6" href="$classkl_service_core_1_1kl_transform.html" title="{klServiceCore.klTransform\n|&#45; m_Name\l|+ getData()\l+ persist()\l+ getName()\l+ setName()\l}" alt="" coords="686,131,858,252"/>
+<area shape="rect" id="node3" href="$classkl_service_core_1_1kl_m_q_analysis.html" title="{klServiceCore.klMQAnalysis\n||+ run()\l}" alt="" coords="5,344,192,421"/>
+<area shape="rect" id="node4" href="$classkl_service_core_1_1kl_s_q_l_server_analysis.html" title="{klServiceCore.klSQLServer\lAnalysis\n|+ m_dataHostResources\l|+ run()\l}" alt="" coords="217,337,394,429"/>
+<area shape="rect" id="node7" href="$classkl_service_core_1_1kl_algorithm_data_sink.html" title="{klServiceCore.klAlgorithm\lDataSink\n|+ m_ICP\l&#45; RenderItems\l|+ klAlgorithmDataSink()\l+ generateDependencies()\l+ getData()\l+ render()\l+ MultiThreadedRender()\l}" alt="" coords="418,300,593,465"/>
+<area shape="rect" id="node10" href="$classkl_service_core_1_1kl_algorithm_data_source.html" title="{klServiceCore.klAlgorithm\lDataSource\n|+ m_OCP\l|+ klAlgorithmDataSource()\l+ getData()\l}" alt="" coords="713,329,887,436"/>
+<area shape="rect" id="node14" href="$classkl_service_core_1_1kl_algorithm_transform.html" title="{klServiceCore.klAlgorithm\lTransform\n|+ m_ICP\l+ m_OCP\l|+ klAlgorithmTransform()\l+ getData()\l}" alt="" coords="1528,322,1699,443"/>
+<area shape="rect" id="node8" href="$classkl_service_core_1_1kl_a_d_o_sink.html" title="{klServiceCore.klADOSink\n|+ m_DataSet\l+ m_DataAdapter\l|}" alt="" coords="181,528,350,620"/>
+<area shape="rect" id="node9" href="$classkl_service_core_1_1kl_file_sink.html" title="{klServiceCore.klFileSink\n|&#45; m_fileName\l|+ klFileSink()\l}" alt="" coords="375,535,537,613"/>
+<area shape="rect" id="node11" href="$classkl_service_core_1_1kl_a_d_o_source.html" title="{klServiceCore.klADOSource\n|+ m_DataSet\l+ m_DataAdapter\l+ m_sqlConnection\l|+ getData()\l}" alt="" coords="561,521,745,627"/>
+<area shape="rect" id="node12" href="$classkl_service_core_1_1kl_file_list_source.html" title="{klServiceCore.klFileList\lSource\n||+ klFileListSource()\l+ getData()\l}" alt="" coords="769,521,927,627"/>
+<area shape="rect" id="node13" href="$classkl_service_core_1_1kl_file_source.html" title="{klServiceCore.klFileSource\n|# m_FileName\l|+ klFileSource()\l+ setFileName()\l+ klFileSource()\l+ getData()\l}" alt="" coords="951,513,1129,635"/>
+<area shape="rect" id="node15" href="$classkl_service_core_1_1kl_d_f_t_agg_transform.html" title="{klServiceCore.klDFTAggTransform\n|+ m_xmlFile\l|+ getData()\l&#45; klDFTAggTransform()\l}" alt="" coords="1153,528,1372,620"/>
+<area shape="rect" id="node16" href="$classkl_service_core_1_1kl_local_transform.html" title="{klServiceCore.klLocalTransform\n|+ m_ICP2\l+ m_OCP2\l|+ klLocalTransform()\l+ getData()\l}" alt="" coords="1396,521,1599,627"/>
+<area shape="rect" id="node17" href="$classkl_service_core_1_1kl_matlab_algorithm.html" title="{klServiceCore.klMatlabAlgorithm\n|+ m_script\l|+ getData()\l&#45; runScript()\l}" alt="" coords="1623,528,1833,620"/>
+<area shape="rect" id="node19" href="$classkl_service_core_1_1kl_r_algorithm.html" title="{klServiceCore.klRAlgorithm\n||+ getData()\l}" alt="" coords="1857,535,2036,613"/>
+<area shape="rect" id="node20" href="$classkl_service_core_1_1kl_unit_test_fn.html" title="{klServiceCore.klUnitTestFn\n|+ m_xmlFile\l|+ getData()\l&#45; klUnitTestFn()\l}" alt="" coords="2060,528,2239,620"/>
+<area shape="rect" id="node18" href="$classkl_service_core_1_1kl_correlation_movie_transform.html" title="{klServiceCore.klCorrelation\lMovieTransform\n||}" alt="" coords="1639,683,1817,775"/>
+</map>

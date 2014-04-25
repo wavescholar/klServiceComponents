@@ -1,0 +1,5 @@
+<map id="klServiceCore.RenderedItem" name="klServiceCore.RenderedItem">
+<area shape="rect" id="node2" href="$classkl_service_core_1_1kl_d_l_l_x_m_l_r_i.html" title="{klServiceCore.klDLLXMLRI\n|+ m_xmlResults\l|}" alt="" coords="5,153,180,230"/>
+<area shape="rect" id="node3" href="$classkl_service_core_1_1kl_equity_instance.html" title="{klServiceCore.klEquityInstance\n||}" alt="" coords="204,153,405,230"/>
+<area shape="rect" id="node4" href="$classkl_service_core_1_1kl_file_list_r_i.html" title="{klServiceCore.klFileListRI\n|+ m_baseFileName\l+ m_files\l|}" alt="" coords="429,145,599,237"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="klServiceCore.klSQLServerAnalysis" name="klServiceCore.klSQLServerAnalysis">
+<area shape="rect" id="node2" href="$classkl_service_core_1_1kl_analysis.html" title="{klAnalysis\n||+ run()\l}" alt="" coords="276,407,359,484"/>
+<area shape="rect" id="node3" href="$class_marshal_by_ref_object.html" title="{MarshalByRefObject\n||}" alt="" coords="5,182,147,259"/>
+<area shape="rect" id="node4" href="$classkl_service_core_1_1kl_algorithm_graph.html" title="{klServiceCore.klAlgorithm\lGraph\n||+ klAlgorithmGraph()\l}" alt="" coords="171,175,341,267"/>
+<area shape="rect" id="node6" href="$classkl_service_core_1_1kl_message_host.html" title="{klServiceCore.klMessageHost\n||+ klMessageHost()\l&#45; getMessageQueue()\l}" alt="" coords="365,175,560,267"/>
+<area shape="rect" id="node7" href="$classkl_service_core_1_1kl_data_host.html" title="{klServiceCore.klDataHost\n||+ klDataHost()\l+ getSQLClientConnection()\l}" alt="" coords="559,291,743,383"/>
+</map>

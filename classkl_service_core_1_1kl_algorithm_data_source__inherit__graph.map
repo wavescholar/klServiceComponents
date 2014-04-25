@@ -1,0 +1,7 @@
+<map id="klServiceCore.klAlgorithmDataSource" name="klServiceCore.klAlgorithmDataSource">
+<area shape="rect" id="node4" href="$classkl_service_core_1_1kl_a_d_o_source.html" title="{klServiceCore.klADOSource\n|+ m_DataSet\l+ m_DataAdapter\l+ m_sqlConnection\l|+ getData()\l}" alt="" coords="5,462,189,569"/>
+<area shape="rect" id="node5" href="$classkl_service_core_1_1kl_file_list_source.html" title="{klServiceCore.klFileList\lSource\n||+ klFileListSource()\l+ getData()\l}" alt="" coords="213,462,371,569"/>
+<area shape="rect" id="node6" href="$classkl_service_core_1_1kl_file_source.html" title="{klServiceCore.klFileSource\n|# m_FileName\l|+ klFileSource()\l+ setFileName()\l+ klFileSource()\l+ getData()\l}" alt="" coords="395,455,573,576"/>
+<area shape="rect" id="node2" href="$classkl_service_core_1_1kl_transform.html" title="{klTransform\n|&#45; m_Name\l|+ getData()\l+ persist()\l+ getName()\l+ setName()\l}" alt="" coords="245,131,339,252"/>
+<area shape="rect" id="node3" href="$class_marshal_by_ref_object.html" title="{MarshalByRefObject\n||}" alt="" coords="221,5,363,83"/>
+</map>

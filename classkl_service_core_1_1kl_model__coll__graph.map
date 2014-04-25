@@ -1,0 +1,7 @@
+<map id="klServiceCore.klModel" name="klServiceCore.klModel">
+<area shape="rect" id="node2" href="$class_marshal_by_ref_object.html" title="{MarshalByRefObject\n||}" alt="" coords="5,182,147,259"/>
+<area shape="rect" id="node4" href="$classkl_service_core_1_1kl_analysis.html" title="{klServiceCore.klAnalysis\n||+ run()\l}" alt="" coords="151,329,316,407"/>
+<area shape="rect" id="node3" href="$classkl_service_core_1_1kl_data_desc.html" title="{klServiceCore.klDataDesc\n||}" alt="" coords="341,329,513,407"/>
+<area shape="rect" id="node5" href="$classkl_service_core_1_1kl_algorithm_graph.html" title="{klServiceCore.klAlgorithm\lGraph\n||+ klAlgorithmGraph()\l}" alt="" coords="171,175,341,267"/>
+<area shape="rect" id="node7" href="$classkl_service_core_1_1kl_message_host.html" title="{klServiceCore.klMessageHost\n||+ klMessageHost()\l&#45; getMessageQueue()\l}" alt="" coords="365,175,560,267"/>
+</map>

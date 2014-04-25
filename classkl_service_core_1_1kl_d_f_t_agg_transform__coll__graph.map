@@ -1,0 +1,8 @@
+<map id="klServiceCore.klDFTAggTransform" name="klServiceCore.klDFTAggTransform">
+<area shape="rect" id="node2" href="$classkl_service_core_1_1kl_algorithm_transform.html" title="{klAlgorithmTransform\n||+ klAlgorithmTransform()\l+ getData()\l}" alt="" coords="145,668,309,760"/>
+<area shape="rect" id="node3" href="$classkl_service_core_1_1kl_transform.html" title="{klTransform\n||+ getData()\l+ persist()\l+ getName()\l+ setName()\l}" alt="" coords="406,145,501,267"/>
+<area shape="rect" id="node4" href="$class_marshal_by_ref_object.html" title="{MarshalByRefObject\n||}" alt="" coords="351,5,492,83"/>
+<area shape="rect" id="node7" href="$classkl_service_core_1_1kl_transform.html" title="{klServiceCore.klTransform\n||+ getData()\l+ persist()\l+ getName()\l+ setName()\l}" alt="" coords="105,145,277,267"/>
+<area shape="rect" id="node6" href="$classkl_service_core_1_1_o_c_p.html" title="{klServiceCore.OCP\n||+ setCache()\l+ setTransform()\l+ getData()\l+ OCP()\l}" alt="" coords="207,329,340,451"/>
+<area shape="rect" id="node9" href="$classkl_service_core_1_1_i_c_p.html" title="{klServiceCore.ICP\n||+ getData()\l+ connect()\l}" alt="" coords="254,513,381,605"/>
+</map>

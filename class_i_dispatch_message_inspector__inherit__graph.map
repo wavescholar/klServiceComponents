@@ -1,0 +1,5 @@
+<map id="IDispatchMessageInspector" name="IDispatchMessageInspector">
+<area shape="rect" id="node2" href="$classkl_service_core_1_1_console_output_message_inspector.html" title="{klServiceCore.ConsoleOutput\lMessageInspector\n||+ AfterReceiveRequest()\l+ BeforeSendReply()\l+ AfterReceiveReply()\l+ BeforeSendRequest()\l}" alt="" coords="5,138,196,274"/>
+<area shape="rect" id="node3" href="$classkl_service_core_1_1_security_message_inspector.html" title="{klServiceCore.SecurityMessage\lInspector\n||+ AfterReceiveRequest()\l+ BeforeSendReply()\l+ AfterReceiveReply()\l+ BeforeSendRequest()\l}" alt="" coords="220,138,427,274"/>
+<area shape="rect" id="node4" href="$classkl_service_core_1_1_streaming_security_message_inspector.html" title="{klServiceCore.StreamingSecurity\lMessageInspector\n||+ AfterReceiveRequest()\l+ AfterReceiveRequest()\l+ BeforeSendReply()\l+ AfterReceiveReply()\l+ BeforeSendRequest()\l}" alt="" coords="451,131,663,281"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_i_endpoint_behavior.html" title="IEndpointBehavior" alt="" coords="5,78,131,105"/>
+<area shape="rect" id="node2" href="$classkl_service_core_1_1_console_output_behavior.html" title="klServiceCore.ConsoleOutput\lBehavior" alt="" coords="189,5,380,47"/>
+<area shape="rect" id="node3" href="$classkl_service_core_1_1_protection_endpoint_behavior.html" title="klServiceCore.Protection\lEndpointBehavior" alt="" coords="203,71,367,112"/>
+<area shape="rect" id="node4" href="$classkl_service_core_1_1_streaming_security_behavior.html" title="klServiceCore.StreamingSecurity\lBehavior" alt="" coords="179,136,391,177"/>
+</map>

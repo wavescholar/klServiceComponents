@@ -1,0 +1,7 @@
+<map id="klServiceCore.SecurityHelper.InstallCertificates" name="klServiceCore.SecurityHelper.InstallCertificates">
+<area shape="rect" id="node2" href="$classkl_service_core_1_1_security_helper.html#abf1be46f118303e2600bf5946cd3c9da" title="klServiceCore.SecurityHelper.\lInstallWcfSecurityCertificates" alt="" coords="248,71,443,112"/>
+<area shape="rect" id="node3" href="$classkl_service_core_1_1_security_helper.html#a86dcc5ad5a06146e21c4e4ee384220f9" title="klServiceCore.SecurityHelper.\lRemoveCertificates" alt="" coords="505,5,699,47"/>
+<area shape="rect" id="node5" href="$classkl_service_core_1_1_security_helper.html#a6ea61bcfb67843c92753f1c542b82aa3" title="klServiceCore.SecurityHelper.\lGrantUserAccessToPrivateKeyFile" alt="" coords="491,71,713,112"/>
+<area shape="rect" id="node6" href="$classkl_service_core_1_1_security_helper.html#a98ff7ef758ceb48250d9f62a5d57ec55" title="klServiceCore.SecurityHelper.\lValidateCert" alt="" coords="505,136,699,177"/>
+<area shape="rect" id="node4" href="$classkl_service_core_1_1_security_helper.html#a2bc094711bdced9489200b0366d50496" title="klServiceCore.SecurityHelper.\lRemoveCertificate" alt="" coords="761,5,956,47"/>
+</map>

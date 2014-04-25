@@ -1,0 +1,6 @@
+<map id="klServiceCore.klCorrelationMovieTransform" name="klServiceCore.klCorrelationMovieTransform">
+<area shape="rect" id="node2" href="$classkl_service_core_1_1kl_matlab_algorithm.html" title="{klMatlabAlgorithm\n|+ m_script\l|+ getData()\l&#45; runScript()\l}" alt="" coords="31,455,157,547"/>
+<area shape="rect" id="node3" href="$classkl_service_core_1_1kl_algorithm_transform.html" title="{klAlgorithmTransform\n|+ m_ICP\l+ m_OCP\l|+ klAlgorithmTransform()\l+ getData()\l}" alt="" coords="12,300,176,407"/>
+<area shape="rect" id="node4" href="$classkl_service_core_1_1kl_transform.html" title="{klTransform\n|&#45; m_Name\l|+ getData()\l+ persist()\l+ getName()\l+ setName()\l}" alt="" coords="47,131,141,252"/>
+<area shape="rect" id="node5" href="$class_marshal_by_ref_object.html" title="{MarshalByRefObject\n||}" alt="" coords="23,5,165,83"/>
+</map>

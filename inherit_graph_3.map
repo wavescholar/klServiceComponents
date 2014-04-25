@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_i_client_message_inspector.html" title="IClientMessageInspector" alt="" coords="15,53,179,79"/>
+<area shape="rect" id="node2" href="$classkl_service_core_1_1_console_output_message_inspector.html" title="klServiceCore.ConsoleOutput\lMessageInspector" alt="" coords="247,5,437,47"/>
+<area shape="rect" id="node3" href="$classkl_service_core_1_1_security_message_inspector.html" title="klServiceCore.SecurityMessage\lInspector" alt="" coords="239,71,445,112"/>
+<area shape="rect" id="node4" href="$classkl_service_core_1_1_streaming_security_message_inspector.html" title="klServiceCore.StreamingSecurity\lMessageInspector" alt="" coords="236,136,448,177"/>
+<area shape="rect" id="node5" href="$class_i_dispatch_message_inspector.html" title="IDispatchMessageInspector" alt="" coords="5,103,188,130"/>
+</map>

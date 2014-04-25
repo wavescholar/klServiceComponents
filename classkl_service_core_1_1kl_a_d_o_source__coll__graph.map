@@ -1,0 +1,7 @@
+<map id="klServiceCore.klADOSource" name="klServiceCore.klADOSource">
+<area shape="rect" id="node2" href="$classkl_service_core_1_1kl_algorithm_data_source.html" title="{klAlgorithmDataSource\n||+ klAlgorithmDataSource()\l+ getData()\l}" alt="" coords="5,513,180,605"/>
+<area shape="rect" id="node3" href="$classkl_service_core_1_1kl_transform.html" title="{klTransform\n||+ getData()\l+ persist()\l+ getName()\l+ setName()\l}" alt="" coords="20,145,115,267"/>
+<area shape="rect" id="node4" href="$class_marshal_by_ref_object.html" title="{MarshalByRefObject\n||}" alt="" coords="71,5,213,83"/>
+<area shape="rect" id="node7" href="$classkl_service_core_1_1kl_transform.html" title="{klServiceCore.klTransform\n||+ getData()\l+ persist()\l+ getName()\l+ setName()\l}" alt="" coords="244,145,416,267"/>
+<area shape="rect" id="node6" href="$classkl_service_core_1_1_o_c_p.html" title="{klServiceCore.OCP\n||+ setCache()\l+ setTransform()\l+ getData()\l+ OCP()\l}" alt="" coords="113,329,246,451"/>
+</map>

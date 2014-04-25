@@ -1,0 +1,10 @@
+<map id="klServiceCore.klAlgorithmTransform" name="klServiceCore.klAlgorithmTransform">
+<area shape="rect" id="node4" href="$classkl_service_core_1_1kl_d_f_t_agg_transform.html" title="{klServiceCore.klDFTAggTransform\n|+ m_xmlFile\l|+ getData()\l&#45; klDFTAggTransform()\l}" alt="" coords="5,477,224,569"/>
+<area shape="rect" id="node5" href="$classkl_service_core_1_1kl_local_transform.html" title="{klServiceCore.klLocalTransform\n|+ m_ICP2\l+ m_OCP2\l|+ klLocalTransform()\l+ getData()\l}" alt="" coords="248,469,451,576"/>
+<area shape="rect" id="node6" href="$classkl_service_core_1_1kl_matlab_algorithm.html" title="{klServiceCore.klMatlabAlgorithm\n|+ m_script\l|+ getData()\l&#45; runScript()\l}" alt="" coords="475,477,685,569"/>
+<area shape="rect" id="node8" href="$classkl_service_core_1_1kl_r_algorithm.html" title="{klServiceCore.klRAlgorithm\n||+ getData()\l}" alt="" coords="709,484,888,561"/>
+<area shape="rect" id="node9" href="$classkl_service_core_1_1kl_unit_test_fn.html" title="{klServiceCore.klUnitTestFn\n|+ m_xmlFile\l|+ getData()\l&#45; klUnitTestFn()\l}" alt="" coords="912,477,1091,569"/>
+<area shape="rect" id="node2" href="$classkl_service_core_1_1kl_transform.html" title="{klTransform\n|&#45; m_Name\l|+ getData()\l+ persist()\l+ getName()\l+ setName()\l}" alt="" coords="533,131,627,252"/>
+<area shape="rect" id="node3" href="$class_marshal_by_ref_object.html" title="{MarshalByRefObject\n||}" alt="" coords="509,5,651,83"/>
+<area shape="rect" id="node7" href="$classkl_service_core_1_1kl_correlation_movie_transform.html" title="{klServiceCore.klCorrelation\lMovieTransform\n||}" alt="" coords="491,624,669,716"/>
+</map>

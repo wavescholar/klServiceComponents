@@ -1,0 +1,4 @@
+<map id="klServiceCore.StreamingSecurityMessageInspector" name="klServiceCore.StreamingSecurityMessageInspector">
+<area shape="rect" id="node2" href="$class_i_dispatch_message_inspector.html" title="{IDispatchMessageInspector\n||}" alt="" coords="5,5,188,83"/>
+<area shape="rect" id="node3" href="$class_i_client_message_inspector.html" title="{IClientMessageInspector\n||}" alt="" coords="212,5,376,83"/>
+</map>
